@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Trip Logger</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email</string>e
+    <string name="email_label">Email</string>
+    <string name="gender_label">Gender</string>
+    <string name="id_text">ID</string>
+    <string name="comment_hint">Enter any comment....</string>
+    <string name="comment">Comments</string>
+    <string name="save_button">Save</string>
+    <string name="settings_clear_button">Clear</string>
+    <string name="trip_title_label">Title</string>
+    <string name="trip_title_hint">Enter a trip title..</string>
+    <string name="details_label">Details</string>
+    <string name="location">Location</string>
+    <string name="cancel">Cancel</string>
+    <string name="trip_type">Trip type</string>
+    <string name="trip_dest">Destination</string>
+    <string name="gps_button">View Location</string>
+    <string name="log">Log</string>
+    <string name="trip">Trip</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="trips">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Commute</item>
+    </string-array>
+</resources>
